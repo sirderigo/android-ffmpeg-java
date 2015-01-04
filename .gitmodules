@@ -1,4 +1,4 @@
 [submodule "external/android-ffmpeg"]
 	path = external/android-ffmpeg
-	url = https://github.com/sirderigo/android-ffmpeg
+	url = https://github.com/sirderigo/android-ffmpeg.git
     ignore = dirty
